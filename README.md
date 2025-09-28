@@ -1,4 +1,4 @@
-# nurhumairah
+# Portfolio
 👩‍💻 Personal portfolio showcasing projects in Data Analytics, IoT, and Embedded Systems.
 
 # Hi there 👋, I'm Nur Humairah  
@@ -12,7 +12,7 @@
 
 ## 🚀 Portfolio Projects
 
-### 🔹 [Color Sensor & LCD Prototype (Arduino + PCB)](https://github.com/your-username/color-sensor-prototype)
+### 🔹 [Color Sensor & LCD Prototype (Arduino + PCB)](https://github.com/aerahumairah/Design-Color-Sensor-LCD-Prototype-Project)
 - Built with **Arduino Uno (C++)**, **TCS3200 Color Sensor**, and **16x2 LCD**  
 - Designed and fabricated PCB in Multisim, soldered and tested prototype  
 - Shows skills in **embedded systems, circuit design, and hardware prototyping**
