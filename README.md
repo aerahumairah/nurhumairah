@@ -19,7 +19,7 @@
 
 ---
 
-### 🔹 [Netflix Database Capstone Project (MATLAB)](https://github.com/your-username/netflix-capstone)
+### 🔹 [Netflix Database Capstone Project (MATLAB)](https://github.com/aerahumairah/Netflix-Analytics-Capstone-Project)
 - Data analysis using **MATLAB Live Script**  
 - Explored Netflix dataset: content distribution, genres, release year trends  
 - Includes **report + presentation slides**  
@@ -34,7 +34,7 @@
 
 ---
 
-### 🔹 [PLC Automation & HMI Project](https://github.com/your-username/plc-hmi-project)
+### 🔹 [PLC Automation & HMI Project](https://github.com/aerahumairah/PLC-Automation-Project)
 - Developed **ladder logic** automation sequence using Omron PLC  
 - Designed **HMI interface** for real-time control and monitoring  
 - Integrated ESP32 for IoT functionality  
