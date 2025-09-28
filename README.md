@@ -3,42 +3,55 @@
 
 # Hi there 👋, I'm Nur Humairah  
 
-🎓 Physics student at Universiti Putra Malaysia (Graduating Nov 2025)  
+🎓 Physics student at Universiti Putra Malaysia (Graduating Dec 2025)  
 💡 Passionate about IoT, Data Analytics, and AI applications in smart systems  
 🔧 Skilled in: C++, Python, MATLAB, Arduino, ESP32, PCB Design, and Excel  
 🌱 Currently exploring: Machine Learning, Data Analytics projects, and Smart Farming solutions  
 
 ---
 
-## 🚀 About Me  
-- 🔭 I’m working on **IoT-based Smart Farming systems** (LDR, soil moisture, temperature sensors with ESP32/Arduino)  
-- 📊 Practicing **Data Analytics** using Kaggle datasets (Excel, Python, SQL)  
-- 🤖 Interested in **Automation & Control Systems** (PLC, HMI, robotics integration)  
-- 🌍 Aspiring to apply **AI + Engineering** for real-world impact in agriculture and semiconductor fields  
+## 🚀 Portfolio Projects
+
+### 🔹 [Color Sensor & LCD Prototype (Arduino + PCB)](https://github.com/your-username/color-sensor-prototype)
+- Built with **Arduino Uno (C++)**, **TCS3200 Color Sensor**, and **16x2 LCD**  
+- Designed and fabricated PCB in Multisim, soldered and tested prototype  
+- Shows skills in **embedded systems, circuit design, and hardware prototyping**
 
 ---
 
-## 🛠️ Tech Stack  
-- **Languages**: Python, C++, MATLAB  
-- **Hardware**: ESP32, Arduino, Sensors, PCB Design  
-- **Tools**: Excel, Power BI, Altium Designer, NI Multisim  
-- **Domains**: Data Analytics, IoT, Embedded Systems, Machine Learning  
+### 🔹 [Netflix Database Capstone Project (MATLAB)](https://github.com/your-username/netflix-capstone)
+- Data analysis using **MATLAB Live Script**  
+- Explored Netflix dataset: content distribution, genres, release year trends  
+- Includes **report + presentation slides**  
+- Skills: **data preprocessing, visualization, analysis**
 
 ---
 
-## 📂 Featured Projects  
-- 🌱 **Smart Farming System with LDR Sensor** – ESP32 + Arduino + sensors for plant monitoring  
-- 📊 **Data Analytics Portfolio** – Kaggle datasets with Excel, Python, and visualization  
-- 🧠 **Diabetes Classification (ML Project)** – Neural network model using key health features  
-- 🔌 **PLC & HMI Projects** – Industrial automation tasks during internship  
+### 🔹 [Diabetes Prediction & Bone Classification (Python)]
+- Applied **machine learning** for medical classification tasks  
+- Built predictive models with scikit-learn and evaluated performance  
+- Linked to real-world applications in healthcare and automation  
 
-*(Check pinned repositories below 👇 for details!)*  
+---
+
+### 🔹 [PLC Automation & HMI Project](https://github.com/your-username/plc-hmi-project)
+- Developed **ladder logic** automation sequence using Omron PLC  
+- Designed **HMI interface** for real-time control and monitoring  
+- Integrated ESP32 for IoT functionality  
+- Shows **industrial automation + modern IoT integration**
+
+---
+
+## 🛠️ Skills Highlight
+- **Programming:** C++, Python, MATLAB, Ladder Logic (PLC)  
+- **Tools:** Arduino IDE, MATLAB, Multisim, TIA Portal/RSLogix (PLC), GitHub  
+- **Core Strengths:** Circuit design, automation systems, embedded programming, data analysis  
 
 ---
 
 ## 📫 Connect with Me  
 - 💼 [LinkedIn](www.linkedin.com/in/nur-humairah-mohamad-khalil)   
-- 📧 Email: aerahumairah78@gmail.com  
+- 📧 Email: aera.work78@gmail.com  
 
 ---
 
